@@ -1,5 +1,5 @@
 <h2> Hi, I'm MichiWoo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://user-images.githubusercontent.com/9165888/88354709-662f0e80-cd27-11ea-899a-470d68452f24.png" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/9165888/88354709-662f0e80-cd27-11ea-899a-470d68452f24.png" width="460">
 <p><em>Frontend developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
