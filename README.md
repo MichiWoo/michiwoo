@@ -5,3 +5,19 @@
 
 [![Twitter: michiwoo](https://img.shields.io/twitter/follow/michiwoo?style=social)](https://twitter.com/michiwoo)
 [![GitHub Michiwoo](https://img.shields.io/github/followers/Michiwoo?label=follow&style=social)](https://github.com/MichiWoo)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const michiwoo = {
+  pronouns: "her",
+  code: [Javascript, HTML, CSS, Php],
+  tools: [Vue, Vuex, React, Redux, Node, Sass],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        mentor: "Platzi"
+                      },
+ challenge: "Nothing for now"
+}
+```
+---
