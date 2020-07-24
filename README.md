@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+title: Thaiane
+date: '2020-14-05'
+githubUsername: 'MichiWoo'
+
 <!--
 **MichiWoo/michiwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
