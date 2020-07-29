@@ -14,11 +14,18 @@ const michiwoo = {
   pronouns: "her",
   code: [Javascript, HTML, CSS, Php],
   tools: [Vue, Vuex, React, Redux, Node, Sass],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        mentor: "Platzi"
-                      },
- challenge: "Nothing for now"
+  architecture: [
+  "microservices", 
+  "event-driven", 
+  "design system pattern"
+  ],
+  techCommunities: {mentor: "Platzi"},
+  challenge: "Nothing for now",
+  databases: [
+  "mysql",
+  "firebase",
+  "mongodb"
+  ]
 }
 ```
 ---
