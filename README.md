@@ -11,9 +11,8 @@
 
 ```javascript
 const michiwoo = {
-  pronouns: "her",
   code: [Javascript, HTML, CSS, Php],
-  tools: [Vue, Vuex, React, Redux, Node, Sass],
+  tools: [Vue, Vuex, React, Redux, Node, Nuxt],
   architecture: [
   "microservices", 
   "event-driven", 
